@@ -1,2 +1,2 @@
-# drools-ha-operator
-drools-ha-operator
+# drools-hacep-operator
+drools-hacep-operator
